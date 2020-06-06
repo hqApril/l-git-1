@@ -1,9 +1,1 @@
 license
-context
-
-add from master
-master 1
-master 2
-
-from master 1
-from master 2
